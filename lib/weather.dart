@@ -1,0 +1,1 @@
+String weather='https://imgs.search.brave.com/U5DbuSgiX5GGMjsaWQX8ffFnLLpgL4HmwqKDovzUaCc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMTAvNS1P/ZmYtUE5HLVBpYy5w/bmc ';
